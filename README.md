@@ -41,7 +41,7 @@
 
 ### 📎 Links
 
-- [LinkedIn](https://linkedin.com/in/...)
+- [LinkedIn](https://www.linkedin.com/in/oleh-frasyniuk-a0b354306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [Telegram](https://t.me/oleg_frs)
 
 ---
