@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 Currently working on personal projects using **Python + Flask + SQLAlchemy**
-- 📚 Finishing a Python course on **Udemy**
-- 🌱 Learning **REST APIs**, **SQLite**, **Git**
-- 💼 Actively looking for my first job or internship in IT
-- 📫 Reach me at: **frasyniuk.oleh.dev@gmail.com**
+-  Currently working on personal projects using **Python + Flask + SQLAlchemy**
+-  Finishing a Python course on **Udemy**
+-  Learning **REST APIs**, **SQLite**, **Git**
+-  Actively looking for my first job or internship in IT
+-  Reach me at: **frasyniuk.oleh.dev@gmail.com**
 
 ---
 
